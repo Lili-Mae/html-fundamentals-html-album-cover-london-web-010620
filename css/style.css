@@ -110,6 +110,6 @@ img {
   margin-left: 163px;
   padding-top: 25px;
 }
-.less-strong {
-  font-weight: bold;
+strong {
+  font-weight: 600;
 }
